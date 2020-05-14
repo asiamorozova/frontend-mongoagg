@@ -20,3 +20,5 @@ const AuthorList = ({ authors }) => {
 AuthorList.propTypes = {
   authors: PropTypes.array.isRequired
 };
+//nest step make a fetching component //set up redux + fetching 
+//
